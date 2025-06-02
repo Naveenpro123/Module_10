@@ -1,8 +1,7 @@
-# Subashree-A-19CS301-Module10
+# Module 10
 
-# 19CS301-Module10
-### Register No - 212222020029
-### Name - Subashree A
+### Register No - 212222050039
+### Name - Naveen P
 
 # ExNo: 10.1 Stack
 ### Aim: To write a python program to get the integer values from the user and push only the odd number into the stack and later pop the last 2 elements
